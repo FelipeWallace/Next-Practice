@@ -1,4 +1,8 @@
 {
-  "/pet/[name]/page": "app/pet/[name]/page.js",
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/events/event1/page": "app/events/event1/page.js",
+  "/events/page": "app/events/page.js",
+  "/page": "app/page.js",
+  "/events/[cat]/[id]/page": "app/events/[cat]/[id]/page.js",
+  "/events/[cat]/page": "app/events/[cat]/page.js"
 }
